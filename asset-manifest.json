@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/pet_ChuckNorris/static/css/main.1b1a86ef.css",
-    "main.js": "/pet_ChuckNorris/static/js/main.f4955fc6.js",
+    "main.js": "/pet_ChuckNorris/static/js/main.5879ed60.js",
     "index.html": "/pet_ChuckNorris/index.html",
     "main.1b1a86ef.css.map": "/pet_ChuckNorris/static/css/main.1b1a86ef.css.map",
-    "main.f4955fc6.js.map": "/pet_ChuckNorris/static/js/main.f4955fc6.js.map"
+    "main.5879ed60.js.map": "/pet_ChuckNorris/static/js/main.5879ed60.js.map"
   },
   "entrypoints": [
     "static/css/main.1b1a86ef.css",
-    "static/js/main.f4955fc6.js"
+    "static/js/main.5879ed60.js"
   ]
 }
