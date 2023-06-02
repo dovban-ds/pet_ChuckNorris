@@ -5,7 +5,7 @@ import "./app.css";
 
 export const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/pet_ChuckNorris">
       <AppLayout>
         <AppRouter />
       </AppLayout>
